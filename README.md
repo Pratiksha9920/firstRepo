@@ -1,5 +1,5 @@
 # firstRepo
-<h1>HELLO</h1>
+<h3>HELLO</h3>
 This is my first Repository
 <br>
 Author-pratiksha bankar
